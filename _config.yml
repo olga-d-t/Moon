@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Catching wind
+bio:                I dance, I tell stories, I explore and travel. One needn't go far, to find another world. 
+description:        "My name is Olga Tsyganova. I was born in St.Petersburg, Russia. When I was 3 my family moved to the U.S. and at 15 we came back to Russia. Trying to adapt to the new culture, I pushed away my American upbringing, until I visited a storytelling workshop. I realized stories of confusion and difficulty can and must be told and it’s freeing and provides beautiful ground for connection between people and to yourself. Now I am integrating the two cultures in me, exploring the world and seeking to continue sharing and hearing stories. My interests lie in physical theater, contemporary dance, Butoh, voice work."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,9 +37,9 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
+email: olgatsy@hotmail.com
+
+facebook:           https://www.facebook.com/olgatsy
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
